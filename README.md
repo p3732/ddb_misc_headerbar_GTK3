@@ -8,7 +8,7 @@ Requirements
 
 Screenshot
 ----------
-![Screenshot](http://i.imgur.com/zYXzoSp.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/p3732/ddb_misc_headerbar_GTK3/master/media/screenshot.png "Screenshot")
 
 Installation
 ------------
